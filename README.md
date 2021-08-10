@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 , Hi, I’m @LZratcliffe 
+
+👀, I’m interested in All things Agile 
+
+🌱, I’m currently learning How to use Github and Google Cloud Product Fundamentals
+
+
 
 <!--
 **LZRatcliffe/LZratcliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
